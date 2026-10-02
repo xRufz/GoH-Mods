@@ -1,0 +1,7 @@
+{mod
+	{name "Supply Mod DR"}
+	{tags "Mods"}
+	{desc "Infinite Supply Fast resupply Larger range"}
+	{minGameVersion "any"}
+	{maxGameVersion "any"}
+}
