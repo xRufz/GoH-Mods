@@ -1,2 +1,2 @@
 # GoH-Mods
-Repositori ode mods modificados del GoH
+Repositorio donde diferentes mods modificados del GoH se guardarán
